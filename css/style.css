@@ -1,0 +1,56 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+html body{
+    background-color: #ff7433 ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.navbar-nav a{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+    }
+
+.navbar-nav a:hover{
+    background-color: #ff7433;
+    transition: 0.5s ease-in-out;
+}
+
+.heading{
+    font-style:italic;
+    color:white;
+    margin-left: 75px;
+}
+
+.myMargin{
+    margin: 25px;
+}
+
+form{
+
+	background: #ff7433;
+}
+/* set padding and size of th form */
+.form-container{
+	border-radius: 10px;
+	padding: 30px;
+}
+.col{
+    padding-top: 5em;
+
+}
+  .column {
+    float: left;
+    width: 25%;
+    margin-left: 7%;
+  } 
+  .background
+  {
+      background-size: cover;
+      background-repeat: no-repeat;
+  }
+   
+  
